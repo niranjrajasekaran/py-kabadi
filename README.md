@@ -3,7 +3,7 @@ py-kabadi library for Python using Roanuz kabadi API's.  Easy to install and sim
 
 
 ## Getting started
-1. Install py-kabadi using `pip install py-kabadi`
+1. Install py-kabadi using `pip install https://github.com/niranjfantain/py-kabadi.git`
 
 2. Create a App here [My APP Login](https://www.cricketapi.com/login/?next=/apps/)
 
