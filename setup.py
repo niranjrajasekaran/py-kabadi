@@ -11,7 +11,7 @@ setup(
     url = 'https://github.com/niranjfantain/py-kabadi',
     package_dir={'': 'src'},
     packages=[''],
-    install_requires=['certifi==2017.4.17', 'chardet==3.0.4', 'idna==2.5', 'pkg-resources==0.0.0',
+    install_requires=['certifi==2017.4.17', 'chardet==3.0.4', 'idna==2.5', 
                       'requests==2.18.1', 'urllib3==1.21.1'],
     entry_points='''
         [console_scripts]
