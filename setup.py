@@ -12,7 +12,7 @@ setup(
     package_dir={'': 'src'},
     packages=[''],
     install_requires=['certifi==2017.4.17', 'chardet==3.0.4', 'idna==2.5', 
-                      'requests==2.18.1', 'urllib3==1.21.1'],
+                      'requests==2.18.1', 'urllib3==1.26.5'],
     entry_points='''
         [console_scripts]
         pykabadi=src.pykabadi:RcaApp
